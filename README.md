@@ -1,8 +1,3 @@
 # github_connect
 
-##  
-
-ldldldl  
-
-###
-
+##  ✈️ 깃설치
