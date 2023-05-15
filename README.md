@@ -79,10 +79,14 @@
    
 2. 브랜치(branch) 만들기
 
+
+   git checkout -b 브랜치이름
    git checkout -b hong
    
    git add .
    git commit -m "하나카드"
+   
+   git push origin 브랜치이름
    git push origin hong
    
    ![image](https://github.com/understanding963852/github_connect/assets/60366769/8f55a459-2d97-46b4-8286-05e588709afa)
